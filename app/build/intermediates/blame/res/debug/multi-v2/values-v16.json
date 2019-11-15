@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/holger/Documents/School/Year 3 WInter/COMP 3160 (M2)/PrivateNotes/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/holger/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha03.aar/93b0a89ca59f4cddf571d001e350adca/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/holger/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/0f5b5655a3a53a24bb1a366924ef2dad/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

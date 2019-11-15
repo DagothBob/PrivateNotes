@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Private Notes</string>
+    <string name="DEFAULT_TEXT">Private Note</string>
+    <string name="DEFAULT_NOTE">Your private note here…</string>
+    <string name="DEFAULT_NAME">Give your note a name</string>
+    <string name="info_text_nl">Tap and hold on a note entry to delete it</string>
+    <string name="info_text_nc">Show the note contents by holding on the eye button!</string>
+</resources>
